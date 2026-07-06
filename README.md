@@ -55,8 +55,11 @@ A collection of Python practice programs built while learning programming fundam
 📫 Connect With Me
 
 💼 LinkedIn: linkedin.com/in/fouzan-saad
+
 💻 GitHub: github.com/fouzansaadtech
+
 📧 Email: fouzansaad.tech@gmail.com
+
 ---
 
 ⭐ If you found this repository helpful, consider giving it a star!
