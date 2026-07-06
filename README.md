@@ -52,11 +52,11 @@ A collection of Python practice programs built while learning programming fundam
 - Build a strong programming foundation for Data Analytics
 
 ---
+📫 Connect With Me
 
+💼 LinkedIn: linkedin.com/in/fouzan-saad
+💻 GitHub: github.com/fouzansaadtech
 📧 Email: fouzansaad.tech@gmail.com
-
-🔗 GitHub: https://github.com/fouzansaadtech
-
 ---
 
 ⭐ If you found this repository helpful, consider giving it a star!
