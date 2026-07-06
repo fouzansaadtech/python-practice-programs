@@ -1,4 +1,4 @@
-# 🐍 Python Practice Programs
+# 🐍 Python Practice Programs-Week 2
 
 A collection of Python practice programs built while learning programming fundamentals during my Data Analytics journey. This repository contains beginner-friendly exercises focused on problem-solving, loops, conditional statements, strings, lists, and tuples.
 
